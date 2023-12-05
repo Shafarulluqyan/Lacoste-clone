@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Kaos Polo"
+  },
+  {
+    "id": 2,
+    "name": "Sepatu Sneakers"
+  },
+  {
+    "id": 3,
+    "name": "Topi"
+  },
+  {
+    "id": 4,
+    "name": "Kemeja Slim Fit"
+  },
+  {
+    "id": 5,
+    "name": "Tas Kulit"
+  },
+  {
+    "name": "kemeja",
+    "id": 6
+  }
+]

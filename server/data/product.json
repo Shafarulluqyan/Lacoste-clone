@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Kaos Lacoste Pria",
+    "slug": "kaos-lacoste-pria",
+    "description": "Kaos pria dari Lacoste dengan desain yang elegan dan nyaman dipakai sehari-hari.",
+    "price": 800000,
+    "mainImg": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dwc6451fbd/0100-LACTH5511_001_24.jpg?imwidth=645&impolicy=product",
+    "CategoryId": 1,
+    "authorId": 1,
+    "userMongoId": "654b7f71ec05b006598613c6"
+  },
+  {
+    "id": 2,
+    "name": "Sepatu Sneakers Lacoste",
+    "slug": "sepatu-sneakers-lacoste",
+    "description": "Sepatu sneakers dari Lacoste dengan gaya yang kasual dan nyaman.",
+    "price": 1499000,
+    "mainImg": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dwcbdb313f/0100-LAC46SMA0014_14B_01.jpg?imwidth=645&impolicy=product",
+    "CategoryId": 2,
+    "authorId": 1,
+    "userMongoId": "654b7f71ec05b006598613c6"
+  },
+  {
+    "id": 3,
+    "name": "Topi Lacoste Classic",
+    "slug": "topi-lacoste-classic",
+    "description": "Topi Lacoste klasik dengan logo buaya yang ikonik.",
+    "price": 400000,
+    "mainImg": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw887ebb07/0100-LACRK2923_70V_24.jpg?imwidth=645&impolicy=product",
+    "CategoryId": 3,
+    "authorId": 1,
+    "userMongoId": "654b7f71ec05b006598613c6"
+  },
+  {
+    "id": 4,
+    "name": "Kemeja Lacoste Slim Fit",
+    "slug": "kemeja-lacoste-slim-fit",
+    "description": "Kemeja pria Lacoste dengan potongan slim fit yang elegan.",
+    "price": 950000,
+    "mainImg": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw46cfa1e3/0100-LACCH0219_423_24.jpg?imwidth=645&impolicy=product",
+    "CategoryId": 4,
+    "authorId": 1,
+    "userMongoId": "654b7f71ec05b006598613c6"
+  },
+  {
+    "id": 5,
+    "name": "Tas Selempang Lacoste Kulit",
+    "slug": "tas-selempang-lacoste-kulit",
+    "description": "Tas selempang dari kulit asli Lacoste dengan desain yang mewah.",
+    "price": 1500000,
+    "mainImg": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw9ab17dc5/0100-LACNH3633CE_000_24.jpg?imwidth=645&impolicy=product",
+    "CategoryId": 5,
+    "authorId": 1,
+    "userMongoId": "654b7f71ec05b006598613c6"
+  }
+]

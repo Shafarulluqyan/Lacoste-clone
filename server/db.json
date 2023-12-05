@@ -1,0 +1,194 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "email": "user1@mail.com",
+      "password": "user1",
+      "role": "user",
+      "phoneNumber": "123-456-7890",
+      "address": "123 Main St, Anytown",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "email": "user2@mail.com",
+      "password": "user2",
+      "role": "user",
+      "phoneNumber": "987-654-3210",
+      "address": "456 Elm St, Another Town",
+      "productId": 2
+    },
+    {
+      "id": 3,
+      "username": "azka",
+      "email": "azka@mail.com",
+      "password": "azka",
+      "role": "admin",
+      "phoneNumber": "555-555-5555",
+      "address": "789 Oak St, Admin City",
+      "productId": 3
+    },
+    {
+      "email": "azka@mail.com",
+      "password": "azka",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Kaos Lacoste Pria",
+      "slug": "kaos-lacoste-pria",
+      "description": "Kaos pria dari Lacoste dengan desain yang elegan dan nyaman dipakai sehari-hari.",
+      "price": "Rp 800.000",
+      "mainImg": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dwc6451fbd/0100-LACTH5511_001_24.jpg?imwidth=645&impolicy=product",
+      "categoryId": 1,
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "name": "Sepatu Sneakers Lacoste",
+      "slug": "sepatu-sneakers-lacoste",
+      "description": "Sepatu sneakers dari Lacoste dengan gaya yang kasual dan nyaman.",
+      "price": "Rp 1.499.000",
+      "mainImg": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dwcbdb313f/0100-LAC46SMA0014_14B_01.jpg?imwidth=645&impolicy=product",
+      "categoryId": 2,
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "name": "Topi Lacoste Classic",
+      "slug": "topi-lacoste-classic",
+      "description": "Topi Lacoste klasik dengan logo buaya yang ikonik.",
+      "price": "Rp 400.000",
+      "mainImg": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw887ebb07/0100-LACRK2923_70V_24.jpg?imwidth=645&impolicy=product",
+      "categoryId": 3,
+      "authorId": 1
+    },
+    {
+      "id": 4,
+      "name": "Kemeja Lacoste Slim Fit",
+      "slug": "kemeja-lacoste-slim-fit",
+      "description": "Kemeja pria Lacoste dengan potongan slim fit yang elegan.",
+      "price": "Rp 950.000",
+      "mainImg": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw46cfa1e3/0100-LACCH0219_423_24.jpg?imwidth=645&impolicy=product",
+      "categoryId": 4,
+      "authorId": 1
+    },
+    {
+      "id": 5,
+      "name": "Tas Selempang Lacoste Kulit",
+      "slug": "tas-selempang-lacoste-kulit",
+      "description": "Tas selempang dari kulit asli Lacoste dengan desain yang mewah.",
+      "price": "Rp 1.500.000",
+      "mainImg": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw9ab17dc5/0100-LACNH3633CE_000_24.jpg?imwidth=645&impolicy=product",
+      "categoryId": 5,
+      "authorId": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kaos Polo"
+    },
+    {
+      "id": 2,
+      "name": "Sepatu Sneakers"
+    },
+    {
+      "id": 3,
+      "name": "Topi"
+    },
+    {
+      "id": 4,
+      "name": "Kemeja Slim Fit"
+    },
+    {
+      "id": 5,
+      "name": "Tas Kulit"
+    },
+    {
+      "name": "kemeja",
+      "id": 6
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "productId": 1,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw75139d5c/0100-LACTH5511_001_20.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 2,
+      "productId": 1,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw11d72557/0100-LACTH5511_001_21.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 3,
+      "productId": 1,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw4fd06a10/0100-LACTH5511_001_22.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 4,
+      "productId": 2,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw7f428fef/0100-LAC46SMA0014_14B_02.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 5,
+      "productId": 2,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dwbd341d11/0100-LAC46SMA0014_14B_03.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 6,
+      "productId": 2,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dwddb8525d/0100-LAC46SMA0014_14B_04.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 7,
+      "productId": 3,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw336e0ecf/0100-LACRK2923_70V_31.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 8,
+      "productId": 3,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dwe7b13988/0100-LACRK2923_70V_32.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 9,
+      "productId": 3,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw33986e92/0100-LACRK2923_70V_33.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 10,
+      "productId": 4,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw66c89401/0100-LACCH0219_423_20.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 11,
+      "productId": 4,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dwade1f219/0100-LACCH0219_423_21.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 12,
+      "productId": 4,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw408b2e3c/0100-LACCH0219_423_22.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 13,
+      "productId": 5,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw23e3b295/0100-LACNH3633CE_000_33.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 14,
+      "productId": 5,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw11122474/0100-LACNH3633CE_000_31.jpg?imwidth=645&impolicy=product"
+    },
+    {
+      "id": 15,
+      "productId": 5,
+      "imgUrl": "https://imagedeleg1.lacoste.com/dw/image/v2/BGSW_PRD/on/demandware.static/-/Sites-master/en_ID/dw8442c945/0100-LACNH3633CE_000_20.jpg?imwidth=645&impolicy=product"
+    }
+  ]
+}

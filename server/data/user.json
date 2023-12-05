@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "username": "user1",
+    "email": "user1@mail.com",
+    "password": "user1",
+    "role": "user",
+    "phoneNumber": "123-456-7890",
+    "address": "123 Main St, Anytown"
+  },
+  {
+    "id": 2,
+    "username": "user2",
+    "email": "user2@mail.com",
+    "password": "user2",
+    "role": "user",
+    "phoneNumber": "987-654-3210",
+    "address": "456 Elm St, Another Town"
+  },
+  {
+    "id": 3,
+    "username": "azka",
+    "email": "azka@mail.com",
+    "password": "azka",
+    "role": "admin",
+    "phoneNumber": "555-555-5555",
+    "address": "789 Oak St, Admin City"
+  }
+]
